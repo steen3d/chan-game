@@ -9,6 +9,7 @@
   "author": "Chris Steenerson",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "phaser": "^3.6.0"
   }
 }
